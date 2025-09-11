@@ -5,3 +5,4 @@ statistics
 # NETWORKING / HTTP
 # ======================================================
 requests
+openpyxl
